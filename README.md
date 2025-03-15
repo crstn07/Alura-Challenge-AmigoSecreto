@@ -23,7 +23,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ## 📁 Acceso al proyecto
 
-[Haz click aquí para acceder](https://github.com/crstn07/Alura-Challenge-AmigoSecreto/src/index.html)
+[Haz click aquí para acceder](https://crstn07.github.io/Alura-Challenge-AmigoSecreto/src/index.html)
 
 ## 💻 Tecnologías utilizadas
 - HTML
